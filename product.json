@@ -1,0 +1,22 @@
+{
+  "name": "super-cloud",
+  "title": "Super Cloud",
+  "description": "Cloud platform engineering across AWS/Azure/GCP, IaC, networking, containers, and cost optimisation.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "AWS",
+      "path": "references/modules/aws-skills.md"
+    },
+    {
+      "name": "Azure Functions",
+      "path": "references/modules/azure-functions.md"
+    },
+    {
+      "name": "Cloud Architecture",
+      "path": "references/modules/cloud-architect.md"
+    }
+  ]
+}
