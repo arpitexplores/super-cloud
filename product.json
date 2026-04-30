@@ -2,7 +2,7 @@
   "name": "super-cloud",
   "title": "Super Cloud",
   "description": "The go-to AI vibe coding skill for cloud engineering: AWS, Azure, GCP, infrastructure as code, Terraform, networking, containers, reliability, and cost optimisation.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [
